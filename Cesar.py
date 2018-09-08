@@ -17,6 +17,7 @@ def encode (m, k) :
             s += i
     return s
 
+
 def decode (m, k) :
     s = ""
     for i in m:
